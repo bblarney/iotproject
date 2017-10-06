@@ -1,5 +1,5 @@
 # iotproject
-C++ Point of Sale Project
+C++ IOT Project
 
 1. This was a school project for a 3rd semester C++ class. It was created in a series of 5 'Milestones'.
 
